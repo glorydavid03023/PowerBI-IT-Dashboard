@@ -1,0 +1,36 @@
+{
+  "name": "RemAT Endpoint Compliance",
+  "dataColors": [
+    "#2272CC",
+    "#4ADE80",
+    "#F59E0B",
+    "#EF4444",
+    "#1A5FA8",
+    "#4BACC6",
+    "#8064A2",
+    "#C8DEEF"
+  ],
+  "background": "#0D1B2E",
+  "foreground": "#FFFFFF",
+  "tableAccent": "#2272CC",
+  "good": "#4ADE80",
+  "neutral": "#F59E0B",
+  "bad": "#EF4444",
+  "maximum": "#4ADE80",
+  "center": "#F59E0B",
+  "minimum": "#EF4444",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#152236" } }, "transparency": 0 }],
+        "border": [{ "color": { "solid": { "color": "#2A3A4A" } }, "show": true, "radius": 8 }],
+        "title": [{ "fontColor": { "solid": { "color": "#FFFFFF" } }, "fontSize": 11, "fontFamily": "Segoe UI Semibold" }],
+        "labels": [{ "color": { "solid": { "color": "#C8DEEF" } } }],
+        "*": [{ "fontColor": { "solid": { "color": "#FFFFFF" } } }]
+      }
+    },
+    "page": {
+      "*": { "background": [{ "color": { "solid": { "color": "#0D1B2E" } }, "transparency": 0 }] }
+    }
+  }
+}
