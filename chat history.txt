@@ -1,0 +1,254 @@
+Jun 16, 2026
+
+J
+Hi Steven Hope this msg finds you well. Id like to discuss my project with you. Im in central time currently, please let me know when you can talk? Thanks
+9:36 PM
+
+Hi,how are you?
+9:37 PM
+
+Hi Sir. Are you available to speak tomorrow morning?
+9:38 PM
+
+J
+Id like to award you my project but need to let you know my data source is an Excel workbook with VBA-generated output tables. Walk me through if this is something you can work with and would you connect that to Power BI and i need a set up a refresh schedule
+9:40 PM
+
+okay.
+9:48 PM
+
+so you have already workbook .xlsx file?
+9:50 PM
+
+I've already set PB environment.
+9:54 PM
+
+👀
+9:54 PM
+
+hi, there?
+10:41 PM
+
+Today
+
+J
+Hi Sir. Sorry for my delay. Im here
+7:31 AM
+
+morning.
+7:34 AM
+
+J
+Morning Sir.
+I got this project i need help with. What would you like to know
+7:38 AM
+
+please share me excel source file
+7:39 AM
+
+and let me know about your budget and timeline.
+7:39 AM
+
+J
+Your bid amount said $250 which is in my budget
+I will share the actual source file when i get home this afternoon However, I can describe the structure: it's an Excel workbook with VBA-generated named output tables including tblQuarantined, tblVIPCurrent, and tblPowerBIExport. Data tracks endpoint quarantine status, patch compliance, and device health across ~80,000 endpoints.
+Id like to have something within 5 days.
+7:43 AM
+
+how about $400?
+7:47 AM
+
+J
+Agreed for $400
+This is my 1st time on this platform. Is there anything additional i need to do
+7:50 AM
+
+nothing right now.
+7:50 AM
+
+after get source file, we can discuss in details.
+7:51 AM
+
+J
+Roger that.
+I'll get them to you as soon as possible. Thank you
+7:51 AM
+
+👍
+7:51 AM
+
+Hello!
+3:59 PM
+
+J
+Hi Sir
+I just got home. Do you want me to attached what i have here in this chat or some place else
+4:40 PM
+
+please share it here.
+4:42 PM
+
+and award me and create milestone.
+4:42 PM
+
+
+Milestone created by @jda80
+Project milestone
+—
+$250.00 USD
+4:43 PM
+
+Congratulations, your bid has been awarded!
+Click the Accept button below to start working.
+
+This project has a budget of $250.00 USD and you will be charged a project commission of $25.00 USD once you've accepted.
+
+Accept
+4:43 PM
+
+👍
+4:43 PM
+
+I want to build a dashboard close to this not exact of course
+4:44 PM
+
+J
+RemAT_Dashboard_Sketch.pptx
+4:44 PM
+
+okay, let me check.
+4:44 PM
+
+also please add rest milestone.
+4:45 PM
+
+
+Milestone created by @jda80
+PowerBI Dashboard - Connection
+—
+$150.00 USD
+4:49 PM
+
+This is the Excel. I import data here then export to the power BI
+4:50 PM
+
+Retest_ Retest_Retest_ RemAT_Workbook_Improved_Freelance.xlsm
+4:50 PM
+
+J
+The project is funded
+4:51 PM
+
+👍
+4:51 PM
+
+These are also the items i need to track. this is dropped in a SP folder and i need to extract the info to the excel and power bi
+4:54 PM
+
+Summary of Releases 061526.xlsx
+4:54 PM
+
+J
+thank you for your help
+4:54 PM
+
+okay, let me check and will back to you soon.
+4:54 PM
+
+J
+ok
+4:55 PM
+
+Im sorry this is the correct excel vba
+5:15 PM
+
+Retest1_ Retest_Retest_ RemAT_Workbook_Improved_Freelance.xlsm
+5:15 PM
+
+J
+disregard the other one
+5:15 PM
+
+okay.
+5:20 PM
+
+Hi
+11:59 AM
+
+Have you checked the whole database?
+12:00 PM
+
+J
+Hi. Im sorry i dont understand the question
+12:21 PM
+
+your database table include invalide values.
+12:22 PM
+
+2026-06-19_12h22_30.png
+2026-06-19_12h22_30.png
+12:23 PM
+
+Yes. I see that
+12:24 PM
+
+J
+I can fix that later
+12:24 PM
+
+so dashboard can be confused by invalid number.
+12:24 PM
+
+but when you update data,everything will be nice.
+12:26 PM
+
+May i change this data for test?
+12:27 PM
+
+the first seen was 3/6/2026
+Days in quarantine will be about 102 days the IS_VIP i need to figure our /
+12:27 PM
+
+*out
+12:27 PM
+
+J
+the aging bucket i havent created yet.
+for example 0-6 days, 7 - 13 days, 24 to 30days and 30+ days
+12:28 PM
+
+okay,i will change data.
+12:30 PM
+
+J
+Thank you
+12:30 PM
+
+please provide data style.
+12:31 PM
+
+First_seen_date,Days_In_Quarantine,Aging_Bucket,Is_VIP
+12:32 PM
+
+J
+Here's the data spec for those four fields:
+
+First_Seen_Date — Date (MM/DD/YYYY), real date value, not text
+Days_In_Quarantine — Whole number (integer), = TODAY minus First_Seen_Date
+Aging_Bucket — Text category: 0-7, 8-30, 31-60, 60+
+Is_VIP — Boolean flag: TRUE/FALSE (or Yes/No)
+12:36 PM
+
+okay.
+12:37 PM
+
+I am doing my best for your project.
+12:38 PM
+
+If i have any question,will let you know.
+12:38 PM
+
+J
+ok
+12:50 PM
+
